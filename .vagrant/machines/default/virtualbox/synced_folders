@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/yura/Difd/DEVHome2","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"},"/home/vagrant/www/default/":{"type":"rsync","guestpath":"/home/vagrant/www/default","hostpath":"/home/yura/Difd/DEVHome2/Content","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
